@@ -8,6 +8,7 @@ Data sources:
 1. Covid vaccination numbers: https://www.kaggle.com/kamal007/global-covid19-vaccination-tracker?select=Global_COVID_Vaccination_Tracker.csv
 2. GDP per capita: https://www.kaggle.com/kamal007/global-covid19-vaccination-tracker?select=GDP_PerCapita.csv
 3. Population numbers: https://www.kaggle.com/eng0mohamed0nabil/population-by-country-2020
+
 Data transformation
 More details are given in the project report. Data was cleaned and merged to produce a single table consisting of the following columns:
 
@@ -18,6 +19,7 @@ More details are given in the project report. Data was cleaned and merged to pro
 5. % of population vaccinated (1 dose)
 6. % of population vaccinated (2 doses)
 7. Region
+
 Data storage
 The final database was stored in a SQL database, using PostgreSQL.
 
