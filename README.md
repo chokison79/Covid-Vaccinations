@@ -1,5 +1,6 @@
-# Project-2
-Covid vaccinations
+
+#Covid vaccinations
+
 Overview
 We decided to look at the number of covid vaccinations by country, with data on GDP and population
 
