@@ -1,0 +1,995 @@
+﻿Index,Pop,GDP,GDP-1,Covid,Full_set,,
+0,Afghanistan,Afghanistan ,Afghanistan,Afghanistan,TRUE,,4
+1,Albania,Albania ,Albania,Albania,TRUE,,4
+2,Algeria,Algeria ,Algeria,Algeria,TRUE,,4
+3,American Samoa,American Samoa ,American Samoa,,FALSE,,3
+4,Andorra,Andorra ,Andorra,Andorra,TRUE,,4
+5,Angola,Angola ,Angola,Angola,TRUE,,4
+6,Anguilla,Anguilla ,Anguilla,Anguilla,TRUE,,4
+7,Antigua and Barbuda,Antigua and Barbuda ,Antigua and Barbuda,Antigua and Barbuda,TRUE,,4
+8,Argentina,Argentina ,Argentina,Argentina,TRUE,,4
+9,Armenia,Armenia ,Armenia,Armenia,TRUE,,4
+10,Aruba,Aruba ,Aruba,Aruba,TRUE,,4
+11,Australia,Australia ,Australia,Australia,TRUE,,4
+12,Austria,Austria ,Austria,Austria,TRUE,,4
+13,Azerbaijan,Azerbaijan ,Azerbaijan,Azerbaijan,TRUE,,4
+14,Bahamas,Bahamas ,Bahamas,Bahamas,TRUE,,4
+15,Bahrain,Bahrain ,Bahrain,Bahrain,TRUE,,4
+16,Bangladesh,Bangladesh ,Bangladesh,Bangladesh,TRUE,,4
+17,Barbados,Barbados ,Barbados,Barbados,TRUE,,4
+18,Belarus,Belarus ,Belarus,Belarus,TRUE,,4
+19,Belgium,Belgium ,Belgium,Belgium,TRUE,,4
+20,Belize,Belize ,Belize,Belize,TRUE,,4
+21,Benin,Benin ,Benin,Benin,TRUE,,4
+22,Bermuda,Bermuda ,Bermuda,Bermuda,TRUE,,4
+23,Bhutan,Bhutan ,Bhutan,Bhutan,TRUE,,4
+24,Bolivia,Bolivia ,Bolivia,Bolivia,TRUE,,4
+25,Bosnia and Herzegovina,Bosnia and Herzegovina ,Bosnia and Herzegovina,Bosnia and Herzegovina,TRUE,,4
+26,Botswana,Botswana ,Botswana,Botswana,TRUE,,4
+27,Brazil,Brazil ,Brazil,Brazil,TRUE,,4
+28,British Virgin Islands,British Virgin Islands ,British Virgin Islands,,FALSE,,3
+29,Brunei,Brunei ,Brunei,Brunei,TRUE,,4
+30,Bulgaria,Bulgaria ,Bulgaria,Bulgaria,TRUE,,4
+31,Burkina Faso,Burkina Faso ,Burkina Faso,Burkina Faso,TRUE,,4
+32,Burundi,Burundi ,Burundi,,FALSE,,3
+33,Cambodia,Cambodia ,Cambodia,Cambodia,TRUE,,4
+34,Cameroon,Cameroon ,Cameroon,Cameroon,TRUE,,4
+35,Canada,Canada ,Canada,Canada,TRUE,,4
+36,Cabo Verde,Cape Verde ,Cape Verde,Cape Verde,TRUE,,4
+37,Caribbean Netherlands,,,,FALSE,,1
+38,Cayman Islands,Cayman Islands ,Cayman Islands,Cayman Islands,TRUE,,4
+39,Central African Republic,Central African Republic ,Central African Republic,Central African Republic,TRUE,,4
+40,Chad,Chad ,Chad,Chad,TRUE,,4
+41,Channel Islands,,,,FALSE,,1
+42,Chile,Chile ,Chile,Chile,TRUE,,4
+43,China,China ,China,Mainland China,TRUE,,4
+44,Colombia,Colombia ,Colombia,Colombia,TRUE,,4
+45,Comoros,Comoros ,Comoros,Comoros,TRUE,,4
+46,Congo,Congo ,Congo,Republic of the Congo,TRUE,,4
+47,Cook Islands,Cook Islands ,Cook Islands,,FALSE,,3
+48,Costa Rica,Costa Rica ,Costa Rica,Costa Rica,TRUE,,4
+49,Croatia,Croatia ,Croatia,Croatia,TRUE,,4
+50,Cuba,Cuba ,Cuba,Cuba,TRUE,,4
+51,CuraÃ§ao,Curaçao ,Curaçao,Curaçao,TRUE,,4
+52,Cyprus,Cyprus ,Cyprus,Cyprus,TRUE,,4
+53,Czech Republic (Czechia),Czech Republic ,Czech Republic,Czech Republic,TRUE,,4
+54,Denmark,Denmark ,Denmark,Denmark,TRUE,,4
+55,Djibouti,Djibouti ,Djibouti,Djibouti,TRUE,,4
+56,Dominica,Dominica ,Dominica,Dominica,TRUE,,4
+57,Dominican Republic,Dominican Republic ,Dominican Republic,Dominican Republic,TRUE,,4
+58,DR Congo,DR Congo ,DR Congo,DR Congo,TRUE,,4
+59,Ecuador,Ecuador ,Ecuador,Ecuador,TRUE,,4
+60,Egypt,Egypt ,Egypt,Egypt,TRUE,,4
+61,El Salvador,El Salvador ,El Salvador,El Salvador,TRUE,,4
+62,Equatorial Guinea,Equatorial Guinea ,Equatorial Guinea,Equatorial Guinea,TRUE,,4
+63,Eritrea,Eritrea ,Eritrea,Eritrea,TRUE,,4
+64,Estonia,Estonia ,Estonia,Estonia,TRUE,,4
+65,Eswatini,Eswatini ,Eswatini,Eswatini,TRUE,,4
+66,Ethiopia,Ethiopia ,Ethiopia,Ethiopia,TRUE,,4
+67,,,,EU,FALSE,,1
+68,Faeroe Islands,,,Faroe Islands,FALSE,,2
+69,Falkland Islands,,,Falkland Islands,FALSE,,2
+70,Fiji,Fiji ,Fiji,Fiji,TRUE,,4
+71,Finland,Finland ,Finland,Finland,TRUE,,4
+72,France,France ,France,France,TRUE,,4
+73,French Guiana,,,,FALSE,,1
+74,French Polynesia,French Polynesia ,French Polynesia,,FALSE,,3
+75,Gabon,Gabon ,Gabon,Gabon,TRUE,,4
+76,Gambia,Gambia ,Gambia,Gambia,TRUE,,4
+77,Georgia,Georgia ,Georgia,Georgia,TRUE,,4
+78,Germany,Germany ,Germany,Germany,TRUE,,4
+79,Ghana,Ghana ,Ghana,Ghana,TRUE,,4
+80,Gibraltar,,,Gibraltar,FALSE,,2
+81,Greece,Greece ,Greece,Greece,TRUE,,4
+82,Greenland,Greenland ,Greenland,Greenland,TRUE,,4
+83,Grenada,Grenada ,Grenada,Grenada,TRUE,,4
+84,Guadeloupe,,,,FALSE,,1
+85,Guam,,,,FALSE,,1
+86,Guatemala,Guatemala ,Guatemala,Guatemala,TRUE,,4
+87,,,,Guernsey,FALSE,,1
+88,Guinea,Guinea ,Guinea,Guinea,TRUE,,4
+89,Guinea-Bissau,Guinea-Bissau ,Guinea-Bissau,Guinea-Bissau,TRUE,,4
+90,Guyana,Guyana ,Guyana,Guyana,TRUE,,4
+91,Haiti,Haiti ,Haiti,Haiti,TRUE,,4
+92,Holy See,,,,FALSE,,1
+93,Honduras,Honduras ,Honduras,Honduras,TRUE,,4
+94,Hong Kong,Hong Kong ,Hong Kong,Hong Kong,TRUE,,4
+95,Hungary,Hungary ,Hungary,Hungary,TRUE,,4
+96,Iceland,Iceland ,Iceland,Iceland,TRUE,,4
+97,India,India ,India,India,TRUE,,4
+98,Indonesia,Indonesia ,Indonesia,Indonesia,TRUE,,4
+99,Iran,Iran ,Iran,Iran,TRUE,,4
+100,Iraq,Iraq ,Iraq,Iraq,TRUE,,4
+101,Ireland,Ireland ,Ireland,Ireland,TRUE,,4
+102,Isle of Man,,,Isle of Man,FALSE,,2
+103,Israel,Israel ,Israel,Israel,TRUE,,4
+104,Italy,Italy ,Italy,Italy,TRUE,,4
+105,CÃ´te d'Ivoire,Ivory Coast ,Ivory Coast,Ivory Coast,TRUE,,4
+106,Jamaica,Jamaica ,Jamaica,Jamaica,TRUE,,4
+107,Japan,Japan ,Japan,Japan,TRUE,,4
+108,,,,Jersey,FALSE,,1
+109,Jordan,Jordan ,Jordan,Jordan,TRUE,,4
+110,Kazakhstan,Kazakhstan ,Kazakhstan,Kazakhstan,TRUE,,4
+111,Kenya,Kenya ,Kenya,Kenya,TRUE,,4
+112,Kiribati,Kiribati ,Kiribati,,FALSE,,3
+113,,Kosovo ,Kosovo,Kosovo,FALSE,,3
+114,Kuwait,Kuwait ,Kuwait,Kuwait,TRUE,,4
+115,Kyrgyzstan,Kyrgyzstan ,Kyrgyzstan,Kyrgyzstan,TRUE,,4
+116,Laos,Laos ,Laos,Laos,TRUE,,4
+117,Latvia,Latvia ,Latvia,Latvia,TRUE,,4
+118,Lebanon,Lebanon ,Lebanon,Lebanon,TRUE,,4
+119,Lesotho,Lesotho ,Lesotho,Lesotho,TRUE,,4
+120,Liberia,Liberia ,Liberia,Liberia,TRUE,,4
+121,Libya,Libya ,Libya,Libya,TRUE,,4
+122,Liechtenstein,Liechtenstein ,Liechtenstein,,FALSE,,3
+123,Lithuania,Lithuania ,Lithuania,Lithuania,TRUE,,4
+124,Luxembourg,Luxembourg ,Luxembourg,Luxembourg,TRUE,,4
+125,Macao,Macau ,Macau,Macau,TRUE,,4
+126,Madagascar,Madagascar ,Madagascar,Madagascar,TRUE,,4
+127,Malawi,Malawi ,Malawi,Malawi,TRUE,,4
+128,Malaysia,Malaysia ,Malaysia,Malaysia,TRUE,,4
+129,Maldives,Maldives ,Maldives,Maldives,TRUE,,4
+130,Mali,Mali ,Mali,Mali,TRUE,,4
+131,Malta,Malta ,Malta,Malta,TRUE,,4
+132,Marshall Islands,Marshall Islands ,Marshall Islands,,FALSE,,3
+133,Martinique,,,,FALSE,,1
+134,Mauritania,Mauritania ,Mauritania,Mauritania,TRUE,,4
+135,Mauritius,Mauritius ,Mauritius,Mauritius,TRUE,,4
+136,Mayotte,,,,FALSE,,1
+137,Mexico,Mexico ,Mexico,Mexico,TRUE,,4
+138,Micronesia,Micronesia ,Micronesia,Micronesia,TRUE,,4
+139,Moldova,Moldova ,Moldova,Moldova,TRUE,,4
+140,Monaco,Monaco ,Monaco,Monaco,TRUE,,4
+141,Mongolia,Mongolia ,Mongolia,Mongolia,TRUE,,4
+142,Montenegro,Montenegro ,Montenegro,Montenegro,TRUE,,4
+143,Montserrat,Montserrat ,Montserrat,Montserrat,TRUE,,4
+144,Morocco,Morocco ,Morocco,Morocco,TRUE,,4
+145,Mozambique,Mozambique ,Mozambique,Mozambique,TRUE,,4
+146,Myanmar,Myanmar ,Myanmar,Myanmar,TRUE,,4
+147,Namibia,Namibia ,Namibia,Namibia,TRUE,,4
+148,Nauru,Nauru ,Nauru,Nauru,TRUE,,4
+149,Nepal,Nepal ,Nepal,Nepal,TRUE,,4
+150,Netherlands,Netherlands ,Netherlands,Netherlands,TRUE,,4
+151,New Caledonia,New Caledonia ,New Caledonia,,FALSE,,3
+152,New Zealand,New Zealand ,New Zealand,New Zealand,TRUE,,4
+153,Nicaragua,Nicaragua ,Nicaragua,Nicaragua,TRUE,,4
+154,Niger,Niger ,Niger,Niger,TRUE,,4
+155,Nigeria,Nigeria ,Nigeria,Nigeria,TRUE,,4
+156,Niue,,,,FALSE,,1
+157,North Korea,North Korea ,North Korea,,FALSE,,3
+158,North Macedonia,North Macedonia ,North Macedonia,North Macedonia,TRUE,,4
+159,Northern Mariana Islands,,,,FALSE,,1
+160,Norway,Norway ,Norway,Norway,TRUE,,4
+161,Oman,Oman ,Oman,Oman,TRUE,,4
+162,Pakistan,Pakistan ,Pakistan,Pakistan,TRUE,,4
+163,Palau,Palau ,Palau,,FALSE,,3
+164,State of Palestine,Palestine ,Palestine,,FALSE,,3
+165,Panama,Panama ,Panama,Panama,TRUE,,4
+166,Papua New Guinea,Papua New Guinea ,Papua New Guinea,Papua New Guinea,TRUE,,4
+167,Paraguay,Paraguay ,Paraguay,Paraguay,TRUE,,4
+168,Peru,Peru ,Peru,Peru,TRUE,,4
+169,Philippines,Philippines ,Philippines,Philippines,TRUE,,4
+170,Poland,Poland ,Poland,Poland,TRUE,,4
+171,Portugal,Portugal ,Portugal,Portugal,TRUE,,4
+172,Puerto Rico,Puerto Rico ,Puerto Rico,,FALSE,,3
+173,Qatar,Qatar ,Qatar,Qatar,TRUE,,4
+174,RÃ©union,,,,FALSE,,1
+175,Romania,Romania ,Romania,Romania,TRUE,,4
+176,Russia,Russia ,Russia,Russia,TRUE,,4
+177,Rwanda,Rwanda ,Rwanda,Rwanda,TRUE,,4
+178,Saint Barthelemy,,,,FALSE,,1
+179,Saint Helena,,,St. Helena,FALSE,,2
+180,Saint Kitts & Nevis,Saint Kitts and Nevis ,Saint Kitts and Nevis,Saint Kitts and Nevis,TRUE,,4
+181,Saint Lucia,Saint Lucia ,Saint Lucia,St. Lucia,TRUE,,4
+182,Saint Martin,,,,FALSE,,1
+183,Saint Pierre & Miquelon,,,,FALSE,,1
+184,Samoa,Samoa ,Samoa,Samoa,TRUE,,4
+185,San Marino,San Marino ,San Marino,San Marino,TRUE,,4
+186,Sao Tome & Principe,São Tomé and Príncipe ,São Tomé and Príncipe,Sao Tome and Principe,TRUE,,4
+187,Saudi Arabia,Saudi Arabia ,Saudi Arabia,Saudi Arabia,TRUE,,4
+188,Senegal,Senegal ,Senegal,Senegal,TRUE,,4
+189,Serbia,Serbia ,Serbia,Serbia,TRUE,,4
+190,Seychelles,Seychelles ,Seychelles,Seychelles,TRUE,,4
+191,Sierra Leone,Sierra Leone ,Sierra Leone,Sierra Leone,TRUE,,4
+192,Singapore,Singapore ,Singapore,Singapore,TRUE,,4
+193,Sint Maarten,Sint Maarten ,Sint Maarten,Sint Maarten,TRUE,,4
+194,Slovakia,Slovakia ,Slovakia,Slovakia,TRUE,,4
+195,Slovenia,Slovenia ,Slovenia,Slovenia,TRUE,,4
+196,Solomon Islands,Solomon Islands ,Solomon Islands,Solomon Islands,TRUE,,4
+197,Somalia,Somalia ,Somalia,Somalia,TRUE,,4
+198,South Africa,South Africa ,South Africa,South Africa,TRUE,,4
+199,South Korea,South Korea ,South Korea,South Korea,TRUE,,4
+200,South Sudan,South Sudan ,South Sudan,South Sudan,TRUE,,4
+201,Spain,Spain ,Spain,Spain,TRUE,,4
+202,Sri Lanka,Sri Lanka ,Sri Lanka,Sri Lanka,TRUE,,4
+203,St. Vincent & Grenadines,Saint Vincent and the Grenadines ,Saint Vincent and the Grenadines,St. Vincent and the Grenadines,TRUE,,4
+204,Sudan,Sudan ,Sudan,Sudan,TRUE,,4
+205,Suriname,Suriname ,Suriname,Suriname,TRUE,,4
+206,Sweden,Sweden ,Sweden,Sweden,TRUE,,4
+207,Switzerland,Switzerland ,Switzerland,Switzerland,TRUE,,4
+208,Syria,Syria ,Syria,Syria,TRUE,,4
+209,Taiwan,Taiwan ,Taiwan,Taiwan,TRUE,,4
+210,Tajikistan,Tajikistan ,Tajikistan,Tajikistan,TRUE,,4
+211,Tanzania,Tanzania ,Tanzania,Tanzania,TRUE,,4
+212,Thailand,Thailand ,Thailand,Thailand,TRUE,,4
+213,Timor-Leste,East Timor ,East Timor,Timor-Leste,TRUE,,4
+214,Togo,Togo ,Togo,Togo,TRUE,,4
+215,Tokelau,,,,FALSE,,1
+216,Tonga,Tonga ,Tonga,Tonga,TRUE,,4
+217,Trinidad and Tobago,Trinidad and Tobago ,Trinidad and Tobago,Trinidad and Tobago,TRUE,,4
+218,Tunisia,Tunisia ,Tunisia,Tunisia,TRUE,,4
+219,Turkey,Turkey ,Turkey,Turkey,TRUE,,4
+220,Turkmenistan,Turkmenistan ,Turkmenistan,Turkmenistan,TRUE,,4
+221,Turks and Caicos,Turks and Caicos I,Turks and Caicos ,Turks & Caicos,TRUE,,4
+222,Tuvalu,Tuvalu ,Tuvalu,,FALSE,,3
+223,U.S. Virgin Islands,,,,FALSE,,1
+224,Uganda,Uganda ,Uganda,Uganda,TRUE,,4
+225,Ukraine,Ukraine ,Ukraine,Ukraine,TRUE,,4
+226,United Arab Emirates,United Arab Emirates ,United Arab Emirates,UAE,TRUE,,4
+227,United Kingdom,United Kingdom ,United Kingdom,U.K.,TRUE,,4
+228,United States,United States ,United States,U.S.,TRUE,,4
+229,Uruguay,Uruguay ,Uruguay,Uruguay,TRUE,,4
+230,Uzbekistan,Uzbekistan ,Uzbekistan,Uzbekistan,TRUE,,4
+231,Vanuatu,Vanuatu ,Vanuatu,,FALSE,,3
+232,Venezuela,Venezuela ,Venezuela,Venezuela,TRUE,,4
+233,Vietnam,Vietnam ,Vietnam,Vietnam,TRUE,,4
+234,Wallis & Futuna,,,,FALSE,,1
+235,Western Sahara,,,,FALSE,,1
+236,Yemen,Yemen ,Yemen,Yemen,TRUE,,4
+237,Zambia,Zambia ,Zambia,Zambia,TRUE,,4
+238,Zimbabwe,Zimbabwe ,Zimbabwe,Zimbabwe,TRUE,,4
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
